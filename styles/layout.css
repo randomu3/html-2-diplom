@@ -1,0 +1,9 @@
+.wrapper {
+    max-width: 1660px;
+    width: 100%;
+}
+
+.layout {
+    max-width: 1200px;
+    padding: 64px 16px 0 16px;
+}

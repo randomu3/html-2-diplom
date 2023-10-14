@@ -1,0 +1,15 @@
+.header__logo {
+    width: 179px;
+    height: 49px;
+}
+
+.header__nav {
+
+}
+
+.header__list {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
